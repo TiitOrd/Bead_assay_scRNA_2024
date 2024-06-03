@@ -11,10 +11,10 @@ The code was run using:
   * NicheNet 2.0.4 (https://doi.org/10.1101/2023.06.13.544751)
   * rrvgo 1.12.2 (https://doi.org/10.17912/micropub.biology.000811)
     
-* Python 3.8.18
-  * CellRank 2.0.1 (https://doi.org/10.1038/s41592-021-01346-6)
+* Python 3.8.12
+  * CellRank 1.5.1 (https://doi.org/10.1038/s41592-021-01346-6)
   * velocyto 0.17 (https://doi.org/10.1038/s41586-018-0414-6)
-  * scVelo 0.2.5 (https://doi.org/10.1038/s41587-020-0591-3)
+  * scVelo 0.2.4 (https://doi.org/10.1038/s41587-020-0591-3)
 
 ## Literature reference
 Manuscript in preparation.
