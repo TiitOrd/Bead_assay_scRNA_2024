@@ -1,0 +1,151 @@
+EC_subset	Gene
+CNV-EC immature	Aplnr
+CNV-EC immature	Lrg1
+CNV-EC immature	Slco2a1
+CNV-EC immature	Prcp
+CNV-EC immature	Mafb
+CNV-EC immature	Col18a1
+CNV-EC immature	Fstl1
+CNV-EC immature	Gng11
+CNV-EC immature	Lgmn
+CNV-EC immature	Nr2f2
+CNV-EC immature	ND4
+CNV-EC immature	CYTB
+CNV-EC immature	Aebp1
+CNV-EC immature	Rps7
+CNV-EC immature	Aprt
+CNV-EC immature	Rpl39
+CNV-EC immature	Rps26
+CNV-EC immature	Rpl12
+CNV-EC immature	Selp
+CNV-EC immature	Rpl32
+CNV-EC immature	ATP6
+CNV-EC immature	Rps18
+CNV-EC immature	Rps11
+CNV-EC immature	Entpd1
+CNV-EC immature	ND1
+CNV-EC immature	Clec14a
+CNV-EC immature	Zfp36l1
+CNV-EC immature	Igfbp4
+CNV-EC immature	Fkbp10
+CNV-EC immature	Ppic
+CNV-EC immature	Rps15a
+CNV-EC immature	Mmp2
+CNV-EC immature	Rps28
+CNV-EC immature	Rps9
+CNV-EC immature	Tcn2
+CNV-EC immature	Rpl15
+CNV-EC immature	Rps8
+CNV-EC immature	Rplp0
+CNV-EC immature	Rpl23
+CNV-EC immature	Elk3
+CNV-EC immature	Rnase4
+CNV-EC immature	Rps27a
+CNV-EC immature	Rpl11
+CNV-EC immature	Rpl34
+CNV-EC immature	Rpl22
+CNV-EC immature	Rpl7
+CNV-EC immature	Emcn
+CNV-EC immature	Rpl27
+CNV-EC immature	Rpl18a
+CNV-EC immature	Rpl37a
+CNV-EC tip cell	Prnp
+CNV-EC tip cell	Sparcl1
+CNV-EC tip cell	Pgf
+CNV-EC tip cell	Smad1
+CNV-EC tip cell	Trp53i11
+CNV-EC tip cell	Fscn1
+CNV-EC tip cell	Serpine1
+CNV-EC tip cell	Anxa6
+CNV-EC tip cell	Cldn5
+CNV-EC tip cell	Vim
+CNV-EC tip cell	Mast4
+CNV-EC tip cell	Dapk2
+CNV-EC tip cell	Plk2
+CNV-EC tip cell	Col4a1
+CNV-EC tip cell	Cd93
+CNV-EC tip cell	Col15a1
+CNV-EC tip cell	Vwa1
+CNV-EC tip cell	Lgals1
+CNV-EC tip cell	Cd82
+CNV-EC tip cell	Ctnnbip1
+CNV-EC tip cell	Csrp1
+CNV-EC tip cell	Col4a2
+CNV-EC tip cell	Sparc
+CNV-EC tip cell	Odc1
+CNV-EC tip cell	Rhoc
+CNV-EC tip cell	N4bp3
+CNV-EC tip cell	Sox4
+CNV-EC tip cell	Serpinh1
+CNV-EC tip cell	Cd63
+CNV-EC tip cell	Lims1
+CNV-EC tip cell	Sox17
+CNV-EC tip cell	Klf6
+CNV-EC tip cell	Pkig
+CNV-EC tip cell	Tcf4
+CNV-EC tip cell	Mcam
+CNV-EC tip cell	Lamb1
+CNV-EC tip cell	Trf
+CNV-EC tip cell	Pcdh17
+CNV-EC tip cell	Meox1
+CNV-EC tip cell	Pxdn
+CNV-EC tip cell	Itm2c
+CNV-EC tip cell	Pde4b
+CNV-EC tip cell	Igfbp7
+CNV-EC tip cell	Fxyd6
+CNV-EC tip cell	AA467197
+CNV-EC tip cell	Zfand5
+CNV-EC tip cell	Adgrl4
+CNV-EC tip cell	Cdh5
+CNV-EC tip cell	Lamc1
+CNV-EC tip cell	Sox7
+CNV-EC proliferating	Hmgb2
+CNV-EC proliferating	Stmn1
+CNV-EC proliferating	Tuba1b
+CNV-EC proliferating	H2afz
+CNV-EC proliferating	Birc5
+CNV-EC proliferating	Tubb5
+CNV-EC proliferating	Cks2
+CNV-EC proliferating	Top2a
+CNV-EC proliferating	Cks1b
+CNV-EC proliferating	Cdk1
+CNV-EC proliferating	Hmgn2
+CNV-EC proliferating	Lmnb1
+CNV-EC proliferating	Ube2c
+CNV-EC proliferating	Ran
+CNV-EC proliferating	Ube2s
+CNV-EC proliferating	Tmpo
+CNV-EC proliferating	Smc4
+CNV-EC proliferating	Tk1
+CNV-EC proliferating	Rrm2
+CNV-EC proliferating	Hmgb1
+CNV-EC proliferating	H2afv
+CNV-EC proliferating	Ccna2
+CNV-EC proliferating	Cdca8
+CNV-EC proliferating	Cdc20
+CNV-EC proliferating	Tubb4b
+CNV-EC proliferating	Dek
+CNV-EC proliferating	Tyms
+CNV-EC proliferating	Ccnb2
+CNV-EC proliferating	Tubb6
+CNV-EC proliferating	Cenpa
+CNV-EC proliferating	Smc2
+CNV-EC proliferating	Racgap1
+CNV-EC proliferating	Ranbp1
+CNV-EC proliferating	Spc24
+CNV-EC proliferating	Ccdc34
+CNV-EC proliferating	Nucks1
+CNV-EC proliferating	Nusap1
+CNV-EC proliferating	H2afx
+CNV-EC proliferating	Pbk
+CNV-EC proliferating	Tpx2
+CNV-EC proliferating	Rrm1
+CNV-EC proliferating	Prc1
+CNV-EC proliferating	Cenpf
+CNV-EC proliferating	Prdx4
+CNV-EC proliferating	Rbm3
+CNV-EC proliferating	Lockd
+CNV-EC proliferating	Cdkn2c
+CNV-EC proliferating	Anp32b
+CNV-EC proliferating	Kif22
+CNV-EC proliferating	Banf1
